@@ -83,13 +83,6 @@ Crittografia end-to-end per tutte le comunicazioni
 Controllo totale: puoi esportare o cancellare i dati in qualsiasi momento
 Conformità GDPR e normative sulla salute digitale
 
-💬 Supporto
-Hai domande? Siamo qui per aiutarti.
-📧 Email: support@healthconnect.app
- 💬 Chat in-app: H24
- 📚 Centro Assistenza: help.healthconnect.app
- 🐦 Social: @HealthConnectApp
-
 
 🌟 La Nostra Missione
 "Trasformiamo i dati del tuo smartwatch da semplici numeri in un sistema di allerta precoce che previene gli infortuni prima che accadano. Health Connect ti dice quando è il momento di spingere e quando è il momento di recuperare, perché allenarsi bene significa allenarsi a lungo."
@@ -118,8 +111,8 @@ Atleti beta tester che hanno contribuito a raffinare l'IA
 Fisioterapisti e coach che hanno validato i nostri algoritmi
 Community di sviluppatori che hanno reso possibile l'integrazione multi-piattaforma
 
-📞 Contatti Business
-Sei un allenatore, una palestra o un'azienda interessata a partnership?
-📧 Business: partnerships@healthconnect.app
- 🌐 Website: www.healthconnect.app
- 💼 LinkedIn: Health Connect Official
+Made by;
+Francesco Abbate
+Paolo Marotta
+Gabriele Immordino
+Christian Peritore
