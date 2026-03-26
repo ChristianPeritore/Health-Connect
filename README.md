@@ -111,7 +111,7 @@ Atleti beta tester che hanno contribuito a raffinare l'IA
 Fisioterapisti e coach che hanno validato i nostri algoritmi
 Community di sviluppatori che hanno reso possibile l'integrazione multi-piattaforma
 
-Made by;
+Made by:
 Francesco Abbate
 Paolo Marotta
 Gabriele Immordino
