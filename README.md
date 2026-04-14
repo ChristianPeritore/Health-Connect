@@ -78,31 +78,23 @@ An AI dedicated to fitness that:
 ---
 
 ## 📊 Cosa Dicono gli Utenti / Testimonials
-> "Dopo 3 mesi non ho più avuto dolori al ginocchio. L'app mi ha fatto capire che mi allenavo troppo senza recuperare." 
-> — **Marco, 34 anni, runner**
+> "After 3 months, my knee pain was gone. The app made me realize I was overtraining and not recovering." 
+> — **Marco, 34, runner**
 
 > "I avoided a serious injury. The app warned me 3 days before I felt pain. Incredible."
 > — **Luca, 41, cyclist**
 
 ---
-
-## 🚧 Roadmap Futura
-- [ ] Integrazione con nutrizionisti per piani alimentari.
-- [ ] Modalità "Team" per allenatori e gruppi.
-- [ ] Analisi biomeccanica con sensori avanzati.
-- [ ] Supporto per sport specifici (nuoto, sci, tennis).
-
 ## 🔒 Privacy & Security
-- **GDPR Compliant**: I tuoi dati sono solo tuoi.
-- **End-to-End Encryption**: Comunicazioni sicure.
-- **Full Control**: Esporta o cancella i dati quando vuoi.
+- **GDPR Compliant**: Your data are only yours.
+- **End-to-End Encryption**: Secure comunications.
+- **Full Control**: Export or delete the data whenever you want.
 
 ## 👥 Team
-Realizzato da:
+Made by:
 - **Francesco Abbate**
 - **Paolo Marotta**
 - **Gabriele Immordino**
 - **Christian Peritore**
 
 ---
-*© 2026 Health Connect. Tutti i diritti riservati.*
